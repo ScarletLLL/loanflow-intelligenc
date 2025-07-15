@@ -23,6 +23,8 @@ LoanFlow Analytics is an integrated platform that solves these problems by:
 
 ## 🏗️ Architecture & Components
 ### Core Business Modules
+
+```
 loanflow-analytics/
 ├── 🎯 pricing_engine/           # Real-time loan pricing optimization
 │   ├── risk_models/            # Credit risk assessment
@@ -42,3 +44,4 @@ loanflow-analytics/
     ├── credit_team/         # Credit risk analytics
     ├── finance_reporting/   # CFO-level dashboards
     └── ml_ops/             # Model monitoring & deployment
+```
